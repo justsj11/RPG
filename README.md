@@ -52,3 +52,10 @@ What we'll be covering
         2. If you have zero or two parameters, you need brackets.
         3. You can return one line of code without curly braces or the return keyword.
         4. More complex logic requires the curly braces and the return keyword.
+
+### STRETCH GOALS
+    1. Add realistic Dice.
+    2. Change the rules of the game.
+    3. Add more heroes
+    4. Restyle the entire app.
+    
