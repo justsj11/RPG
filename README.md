@@ -1,21 +1,54 @@
-# co75a49f8a90aeb822619308c
+### NEXT LEVEL JAVASCRIPT
+    1.Object destructuring
+    2.The .map() method
+    3. The .join() method
+    4. Returning a function inside a function
+    5. Creating new arrays with the array constructor.
+    6. The .fill() method
+## Object Destructuring
 
-Quick start:
+An easier way to extract data from objects.
 
-```
-$ npm install
-$ npm start
-````
+## .map() method
+An inbuilt Javascript method to iterate over arrays
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## .join() method
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+An inbuilt Javascript method to create strings from arrays
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+    1. Concatenates the elements of an array into a string.
+    2. Lets you choose how the elements are seperated.
+    3. Returns the new string.
 
-Happy Coding!
+## .fill() method
+
+    1. It converts the elements in an array to a given static value.
+
+### Module 2 Constructor Functions
+
+What we'll be covering
+    1. Constructor Functions
+    2. Breaking up our code into multiple files.
+    3. Other JS Goodies.
+
+## Constructor Function: Templates for Objects.
+
+## Methods
+    1. Properties on objects that contain functions.
+    2. If yoou can write a function, you can write a method.
+
+## Object.assign
+    1. Copues properties from a source object to a target object.
+    2. Returns a new version of the target object.
+
+### Module 3 The gameplay
+    1. The .reduce() method
+    2. Arrow Functions : A Javascript notation used in ES6
+    3. setTimeOut()
+    4. Plenty more JS goodies.
+
+#### 2. Arrow Functions : A Javascript notation used in ES6
+        1. If you have one parameter, you donot need brackets.
+        2. If you have zero or two parameters, you need brackets.
+        3. You can return one line of code without curly braces or the return keyword.
+        4. More complex logic requires the curly braces and the return keyword.
